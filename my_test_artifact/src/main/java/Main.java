@@ -1,5 +1,3 @@
-package pckage;
-
 import org.json.simple.JSONObject;
 
 import java.io.BufferedInputStream;
